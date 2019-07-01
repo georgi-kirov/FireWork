@@ -1,0 +1,12 @@
+Given the following assets, you should recreate the design preview.
+
+Requirements:
+- Use css flexbox or grid.
+- Don't use Bootstrap.
+- Don't use Jquery.
+
+
+Bonus tasks:
+- Animate the fire behind the TIME JACKPOT.
+- Use one of the following sass/less/stylus.
+- Play fire sound. // Hint you can use Howler.js
